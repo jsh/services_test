@@ -5,4 +5,4 @@ hello:
 
 
 clean:
-  rm -f ${cleanfiles}
+	rm -f ${cleanfiles}
