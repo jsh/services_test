@@ -7,5 +7,5 @@ Test GitHub service hooks.
 
 I'm doing this in a public repo to prevent having to pay fees.
 
-THE GREAT AND POWERFUL DOUGY WAS HERE
-=====================================
+I've added Travis as a service, and a button to the README.
+I've added Campfile as a service.
