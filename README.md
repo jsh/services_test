@@ -8,4 +8,4 @@ Test GitHub service hooks.
 I'm doing this in a public repo to prevent having to pay fees.
 
 I've added Travis as a service, and a button to the README.
-I've added Campfile as a service.
+I've added Campfire as a service.
